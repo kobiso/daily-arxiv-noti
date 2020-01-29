@@ -1,2 +1,8 @@
 # daily-arxiv-noti
-Daily arxiv notification with pre-defined keywords
+
+This repository is automated daily notification of arxiv new submissions with pre-defined keywords.
+
+You can find the code and usage in [github.com/kobiso/get-daily-arxiv-noti](https://github.com/kobiso/get-daily-arxiv-noti).
+
+- Subject: computer science (cs)
+- Keywords: "metric learning", "image retrieval", "face recognition", "imagenet", "cars196"
