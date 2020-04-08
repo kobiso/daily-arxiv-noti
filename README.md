@@ -5,4 +5,4 @@ This repository is automated daily notification of arxiv new submissions with pr
 You can find the code and usage in [github.com/kobiso/get-daily-arxiv-noti](https://github.com/kobiso/get-daily-arxiv-noti).
 
 - Subject: computer science (cs)
-- Keywords: "metric learning", "image retrieval", "face recognition", "imagenet", "cars196"
+- Keywords: "metric learning", "image retrieval", "face recognition", "imagenet", "augmentation", "skin", "try-on"
